@@ -4,6 +4,7 @@ This is an examples and tutorials for Mathematics in Machine Learning and Deep L
 
 ## Prerequisites
 Python 3.0 and up
+
 Use jupyter notebook
 
 ## List of Mathematics
