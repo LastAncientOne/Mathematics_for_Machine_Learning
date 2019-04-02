@@ -9,8 +9,11 @@ Use jupyter notebook
 
 ## List of Mathematics
 Basic Mathemathics
+
 Probability
+
 Calculus
+
 Linear Algebra
 
 
