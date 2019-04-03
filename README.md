@@ -3,7 +3,7 @@
 This is an examples and tutorials for Mathematics in Machine Learning and Deep Learning.
 
 ## Prerequisites
-Python 3.0 and up
+Python 3.0 +
 
 Use jupyter notebook
 
@@ -17,4 +17,4 @@ Calculus
 Linear Algebra
 
 
-Will add more...
+### Will add more...
