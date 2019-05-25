@@ -1,6 +1,6 @@
 <img src="Title.PNG">
 
-# Mathematics_for_Machine_Learning_and Deep_Learning
+# Mathematics for Machine Learning and Deep Learning
 
 ##  Description  
 This is an examples and tutorials for Mathematics in Machine Learning and Deep Learning. Education for mathematics.  
