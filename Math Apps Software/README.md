@@ -10,8 +10,8 @@ tkinker in 3.5 (conda install -c anaconda tk, conda install tk or python -m tkin
 numpy 
 
 ## Run Programs  
-python <...filename...>.py
-Example: python ACP_Apps.py  
+python <...filename...>.py  
+Example: python ACP_Apps.py    
 
 Run programs in Python IDLE, Spyder, PyCharms, and etc.  
 
