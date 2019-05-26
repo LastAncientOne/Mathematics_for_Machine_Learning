@@ -19,6 +19,6 @@ Calculus
 Linear Algebra  
 
 ## Author:  
-Tin Hang  
+* Tin Hang
 
 ### Will add more...
