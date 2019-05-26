@@ -13,10 +13,15 @@ Use jupyter notebook
 
 ## List of Mathematics:
 Basic Mathemathics  
+- Addition, Subtraction, Multiplication, Division, Square Root, and Algebra.
 Geometry  
-Probability  
+- Shapes, Area, Perimeter, Volume, Points, Lines, Angles, Surfaces, Planes, and Curves
+Statistics 
+- Data collection, Data Analysis, Probability, Average, and, Standard Deviation 
 Calculus  
+- Instantaneous rates of change and Slopes of curves, Differential, Integral, Series, Vector, and Multivariable
 Linear Algebra  
+- Matrices, Vector Spaces, LInear Systems,  Gaussian elimination, Linear Systems, Determinant, Eigenvalues and eigenvectors
 
 ## Author:  
 * Tin Hang
