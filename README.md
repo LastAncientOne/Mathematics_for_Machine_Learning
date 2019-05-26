@@ -12,15 +12,15 @@ Python 3.0 +
 Use jupyter notebook  
 
 ## List of Mathematics:
-Basic Mathemathics  
+### Basic Mathemathics  
 - Addition, Subtraction, Multiplication, Division, Square Root, and Algebra.
-Geometry  
+### Geometry  
 - Shapes, Area, Perimeter, Volume, Points, Lines, Angles, Surfaces, Planes, and Curves
-Statistics 
+### Statistics 
 - Data collection, Data Analysis, Probability, Average, and, Standard Deviation 
-Calculus  
+### Calculus  
 - Instantaneous rates of change and Slopes of curves, Differential, Integral, Series, Vector, and Multivariable
-Linear Algebra  
+### Linear Algebra  
 - Matrices, Vector Spaces, LInear Systems,  Gaussian elimination, Linear Systems, Determinant, Eigenvalues and eigenvectors
 
 ## Author:  
