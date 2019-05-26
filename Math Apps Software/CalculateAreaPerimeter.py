@@ -42,7 +42,9 @@ def clear():
     e2.delete(0,END)
     e3.delete(0,END)
     e4.delete(0,END)
-
+    e5.delete(0,END)
+    e6.delete(0,END)
+    e7.delete(0,END)
 
 Label(text='Area, Perimeter, & Circumference',pady=20,font=('arial',20,'bold'),fg='white',bg='black').grid(row=0, column=1)
 
