@@ -45,6 +45,17 @@ def Trapezoidal_Prism():
     print('Surface Area of a Triangle_Prisms: ', SA)
     return  
                    
+def Right_Circular_Cylinder():
+    radius = float(input(print("Enter the radius:"))
+    height = float(input(print("Enter the height:"))
+    area = math.pi * radius**2
+    c = 2 * math.pi * radius               
+    Volume = area * height
+    SA = (2*area) + (c * height)
+    print('Volume of a Triangle_Prisms: ', Volume)
+    print('Surface Area of a Triangle_Prisms: ', SA)
+    return  
+                   
 def main():
     run_program = True
     while run_program:
@@ -65,6 +76,9 @@ def main():
             print('_____Trapezoidal Prism_____')
             Trapozid_Prism()   
         elif choice == 4:
+            print('_____Right Circular Cylinder_____')
+            Trapozid_Prism()             
+        elif choice == 5:
              run_program = False             
 
 
