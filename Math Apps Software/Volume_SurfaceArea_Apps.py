@@ -31,6 +31,7 @@ def Triangle_Prism():
     print('Surface Area of a Triangle_Prisms: ', SA)
     return             
     
+                   
 def Trapezoidal_Prism():
     base1 = float(input(print("Enter the base1:"))
     base2 = float(input(print("Enter the base2:"))              
