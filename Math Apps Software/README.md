@@ -1,6 +1,7 @@
 <img src="Math_Title.PNG">
 
 # Math Applications and Software
+Description: Calculates Areas, Peritmeter, Circumference, and other formulas.  
 
 ## Prerequistes  
 Python 3.5+  
