@@ -11,8 +11,8 @@
 [contributors-shield]: https://img.shields.io/github/contributors/LastAncientOne/Mathematics_for_Machine_Learning.svg?style=for-the-badge
 [contributors-url]: https://github.com/LastAncientOne/Mathematics_for_Machine_Learning/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/LastAncientOne/Mathematics_for_Machine_Learning.svg?style=for-the-badge
-[forks-url]: https://github.com/LastAncientOne/SMathematics_for_Machine_Learning/network/members
-[stars-shield]: https://img.shields.io/github/stars/LastAncientOne/SMathematics_for_Machine_Learning.svg?style=for-the-badge
+[forks-url]: https://github.com/LastAncientOne/Mathematics_for_Machine_Learning/network/members
+[stars-shield]: https://img.shields.io/github/stars/LastAncientOne/Mathematics_for_Machine_Learning.svg?style=for-the-badge
 [stars-url]: https://github.com/LastAncientOne/Mathematics_for_Machine_Learningt/stargazers
 [issues-shield]: https://img.shields.io/github/issues/LastAncientOne/Mathematics_for_Machine_Learning.svg?style=for-the-badge
 [issues-url]: https://github.com/LastAncientOne/Mathematics_for_Machine_Learning/issues
