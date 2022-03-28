@@ -47,5 +47,3 @@ Use jupyter notebook
 
 ## Author:  
 * Tin Hang
-
-### Will add more...
