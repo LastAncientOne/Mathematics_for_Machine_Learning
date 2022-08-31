@@ -6,7 +6,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)   
+<a href="https://www.buymeacoffee.com/lastancientone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=000000&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" /></a>  
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -47,7 +47,7 @@ Use jupyter notebook
 ### Linear Algebra  
 - Matrices, Vector Spaces, Linear Systems,  Gaussian elimination, Linear Systems, Determinant, Eigenvalues and eigenvectors
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)   
+<a href="https://www.buymeacoffee.com/lastancientone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lastancientone&button_colour=000000&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" /></a>  
 
 ## Author:  
 * Tin Hang
