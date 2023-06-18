@@ -27,7 +27,7 @@
 # Mathematics for Machine Learning and Deep Learning
 
 ##  Description:    
-This is a tutorials for Mathematics in Machine Learning and Deep Learning. There are step-by-step and examples of math problems in machine learning and deep learning.  Education for mathematics. :symbols: :1234:  
+This tutorial provides an overview of Mathematics in Machine Learning and Deep Learning. It includes step-by-step explanations and examples of math problems in these fields. It aims to enhance your understanding of mathematics in relation to education for machine learning and deep learning. :symbols: :1234:  
 
 <img src="Title_Math.PNG">
 
